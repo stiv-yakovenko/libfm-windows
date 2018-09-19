@@ -24,4 +24,4 @@ Now you can run executable:
 ![](p4.png)
 
 If you want to launch exe from windows command line, you'll have to copy cygwin dll files near it or add cygwin to PATH.
-Make sure to strip \n characters from data files before sending to libfm.exe.
+Make sure to strip \r characters from data files before sending to libfm.exe.
